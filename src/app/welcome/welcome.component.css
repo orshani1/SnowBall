@@ -316,3 +316,16 @@ video{
     }
   
 }
+@media (max-width:400px) {
+    .card{
+        margin-right: 20rem;
+    }
+    .wrap{
+        margin-left:30rem;
+    }
+   
+    .card-contact{
+        margin-left: 70rem;
+        
+    }
+}
